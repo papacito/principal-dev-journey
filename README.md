@@ -25,6 +25,7 @@ This roadmap focuses on four pillars:
 
 ## Structure
 
+```
 principal-roadmap/
 ├── 01-java-deep-dive/
 ├── 02-performance-engineering/
@@ -33,7 +34,7 @@ principal-roadmap/
 ├── 05-observability-and-reliability/
 ├── 06-leadership-and-communication/
 └── README.md
-
+```
 Each folder will contain notes, code samples, benchmarks, and design diagrams related to its theme.
 
 ---
